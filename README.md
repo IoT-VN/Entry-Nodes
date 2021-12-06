@@ -1,3 +1,18 @@
 # TỔNG HỢP OXY CÁC NƯỚC
-- **GERMANY** : > de-pr.oxylabs.io:30000
-- > Text that is a quote
+- **GERMANY** : de-pr.oxylabs.io:30000
+- **FRANCE** : fr-pr.oxylabs.io:40000
+- **UK** : gb-pr.oxylabs.io:20000
+- **NETHERLANDS** : nl-pr.oxylabs.io:20000
+- **DENMARK** : dk-pr.oxylabs.io:19000
+- **SWEDEN** : se-pr.oxylabs.io:30000
+- **CANADA** : ca-pr.oxylabs.io:30000
+- **JAPAN** : jp-pr.oxylabs.io:40000
+- **KOREA** : kr-pr.oxylabs.io:30000
+- **BELGIUM - BỈ** : be-pr.oxylabs.io:30000
+- **POLAND - PHẦN LAN** : pl-pr.oxylabs.io:20000
+- **Switzerland** : ch-pr.oxylabs.io:39000
+- **FILAND** : fi-pr.oxylabs.io:21000
+- **ITALIA** : it-pr.oxylabs.io:20000
+- **Israel** : il-pr.oxylabs.io:20000
+- **Austria** : at-pr.oxylabs.io:11000
+- **Norway** : no-pr.oxylabs.io:34000
