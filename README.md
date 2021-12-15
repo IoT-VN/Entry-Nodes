@@ -17,3 +17,4 @@
 - **Austria** : at-pr.oxylabs.io:11000
 - **Norway** : no-pr.oxylabs.io:34000
 - **US** : us-pr.oxylabs.io:10000
+- 
